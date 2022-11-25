@@ -1,0 +1,46 @@
+.downloag_pdf_div {
+    width: 45vw;
+    min-width: 320px;
+    border: 1px solid #EDEDF4;
+    border-radius: 10px;
+    padding: 18px 35px;
+}
+
+.downloag_pdf_div p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+}
+
+.go_back {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 30px;
+}
+
+.downloag_form_txt {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 30px 0px;
+}
+.fill_complete_download img{
+    width: 40px;
+    height: 40ox;
+}
+.fill_complete_download p{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    color: #167AEF;
+    margin-top: 15px;
+}
+
+.fill_complete_download {
+   margin-top: 100px;
+}
